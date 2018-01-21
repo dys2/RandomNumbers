@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { sequenceGen } from './canvas.js';
+import { sequenceGen } from './SequenceGen';
 import './App.css';
 
 class App extends Component {
