@@ -1,0 +1,12 @@
+.show-load {
+  display: block;
+  text-align: left;
+}
+.hide-load {
+  display: none;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+}
